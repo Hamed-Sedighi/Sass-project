@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Nettizen Script Dancing";
+  src: url("../fonts/Script_Dancing/NettizenScriptDancing.eot");
+  src: url("../fonts/Script_Dancing/NettizenScriptDancing.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Script_Dancing/NettizenScriptDancing.woff2") format("woff2"),
+    url("../fonts/Script_Dancing/NettizenScriptDancing.woff") format("woff"),
+    url("../fonts/Script_Dancing/NettizenScriptDancing.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("../fonts/JosefinSans/JosefinSans-Thin.eot");
+  src: url("../fonts/JosefinSans/JosefinSans-Thin.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/JosefinSans/JosefinSans-Thin.woff2") format("woff2"),
+    url("../fonts/JosefinSans/JosefinSans-Thin.woff") format("woff"),
+    url("../fonts/JosefinSans/JosefinSans-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Nunito/Poppins-Medium.eot");
+  src: url("../fonts/Nunito/Poppins-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/Nunito/Poppins-Medium.woff2") format("woff2"),
+    url("../fonts/Nunito/Poppins-Medium.woff") format("woff"),
+    url("../fonts/Nunito/Poppins-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
